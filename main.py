@@ -744,7 +744,7 @@ event, values = window.read()
 while True:
     event, values = window.read()
     if msg:
-        console("console","CS:CK v1.0, welcome! Made by @vikalexea")
+        console("console","CS:CK v1.0, welcome! Made by @Vikalexu")
         msg = False
     command = rawcommand(values)["Command"]
     execute = True
